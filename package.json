@@ -1,0 +1,32 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangjion/ts-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangjion/ts-book/issues"
+  },
+  "homepage": "https://github.com/tangjion/ts-book#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.2.16",
+    "@types/node": "^8.0.50",
+    "awesome-typescript-loader": "^3.3.0",
+    "jquery": "^3.2.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.82",
+    "@types/underscore": "^1.8.4"
+  }
+}
